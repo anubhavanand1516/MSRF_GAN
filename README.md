@@ -24,6 +24,12 @@ By using an *Unrolled GAN*, we can prevent the generator from optimizing for a s
 
 So the generator can't over-optimize for a single discriminator.
 
+## Getting Started
+Clone the repository into a local machine using
+```shell
+git clone 
+```
+
 Following is the FID graph:
 
 ![FID loss vs Epochs](https://user-images.githubusercontent.com/41025885/131232734-1f2bf977-dd45-4a65-8e28-38a8056d98cb.png)
