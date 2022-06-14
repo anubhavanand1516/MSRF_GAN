@@ -37,5 +37,3 @@ Following is the FID graph: (Sorry for not finding the graph with 20 epochs)
 ![FID loss vs Epochs](https://user-images.githubusercontent.com/41025885/131232734-1f2bf977-dd45-4a65-8e28-38a8056d98cb.png)
 
 Thanks for reading, 
-
-Ziv
