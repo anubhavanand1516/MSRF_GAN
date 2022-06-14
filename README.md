@@ -9,19 +9,14 @@ https://en.wikipedia.org/wiki/Fr%C3%A9chet_inception_distance
 
 Following are few pictures to illustrate the training progress.
 
-Epoch#0:
+Generated fake images.
 
 ![Epoch#0](https://github.com/anubhavanand1516/MSRF_GAN/blob/main/samples/fake_images-30.png)
 
-Epoch#3:
+Generated Real images.
 
-![Epoch#3](https://user-images.githubusercontent.com/41025885/131232496-898ba6b7-26a4-4011-bd9d-5edf40ed3ed7.png)
+![Epoch#3](https://github.com/anubhavanand1516/MSRF_GAN/blob/main/samples/real_images.png)
 
-Epoch#10:
-
-![Epoch#10](https://user-images.githubusercontent.com/41025885/131232519-c92ad681-893d-4817-aa2e-a3601e48158a.png)
-
-Epoch#20:
 
 ![Epoch#19](https://user-images.githubusercontent.com/41025885/131232520-4175f512-ce89-45b6-9464-5055082e7ccf.png)
 
