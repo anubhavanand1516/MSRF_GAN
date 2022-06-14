@@ -29,6 +29,11 @@ Clone the repository into a local machine using
 ```shell
 git clone https://github.com/anubhavanand1516/MSRF_GAN
 ```
+### Instructions to run
+These notebooks were developed on pytorch with cuda implementation, as they provide sufficient GPU resources to develop these models. To open these notebooks locally, run
+```shell
+python Teamx.py
+```
 
 Following is the FID graph:
 
