@@ -1,4 +1,4 @@
-# GAN for fashion-MNIST, with FID
+# GAN for fashion-MNIST, with FID,Cuda
 Attached is a basic GAN, referenced to "MNIST FASION".
 
 Since the discriminator also improves during training, I needed an *external tool* to evaluate the improvement of the genreted images.
