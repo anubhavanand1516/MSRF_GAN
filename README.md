@@ -18,17 +18,14 @@ Generated Real images.
 ![Epoch#3](https://github.com/anubhavanand1516/MSRF_GAN/blob/main/samples/real_images.png)
 
 
-![Epoch#19](https://user-images.githubusercontent.com/41025885/131232520-4175f512-ce89-45b6-9464-5055082e7ccf.png)
-
-
 This GAN suffers from mode-collapse. 
 
 By using an *Unrolled GAN*, we can prevent the generator from optimizing for a single fixed discriminator, since the loss function incorporates not only the current discriminator's classifications, but also future discriminator versions.
 
 So the generator can't over-optimize for a single discriminator.
 
-Following is the FID graph: (Sorry for not finding the graph with 20 epochs)
+Following is the FID graph:
 
 ![FID loss vs Epochs](https://user-images.githubusercontent.com/41025885/131232734-1f2bf977-dd45-4a65-8e28-38a8056d98cb.png)
 
-Thanks for reading, 
+Thanks.
