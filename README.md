@@ -11,7 +11,7 @@ Following are few pictures to illustrate the training progress.
 
 Epoch#0:
 
-![Epoch#0](https://user-images.githubusercontent.com/41025885/131232494-e1ad44c1-a9c8-419c-9aa2-e6e07921ece8.png)
+![Epoch#0](sample/fake_images-30.png)
 
 Epoch#3:
 
