@@ -11,7 +11,7 @@ Following are few pictures to illustrate the training progress.
 
 Epoch#0:
 
-![Epoch#0](sample/fake_images-30.png)
+![Epoch#0](https://github.com/anubhavanand1516/MSRF_GAN/blob/main/samples/fake_images-30.png)
 
 Epoch#3:
 
