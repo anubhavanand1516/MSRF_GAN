@@ -11,7 +11,7 @@ Following are few pictures to illustrate the training progress.
 
 Generated fake images.
 
-![Epoch#0](https://github.com/anubhavanand1516/MSRF_GAN/blob/main/samples/fake_images-30.png)
+![Epoch#0](https://github.com/anubhavanand1516/MSRF_GAN/blob/main/samples/fake_images-11.png)
 
 Generated Real images.
 
