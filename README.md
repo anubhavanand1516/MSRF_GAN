@@ -27,7 +27,7 @@ So the generator can't over-optimize for a single discriminator.
 ## Getting Started
 Clone the repository into a local machine using
 ```shell
-git clone 
+git clone https://github.com/anubhavanand1516/MSRF_GAN
 ```
 
 Following is the FID graph:
